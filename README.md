@@ -1,6 +1,6 @@
 # LuisLadinoDataProjects
 
-## Data Projects from Kaggle - each one has a readme
+## Data Projects from Kaggle -
 
 ## Contact
 
