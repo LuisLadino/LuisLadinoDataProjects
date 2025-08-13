@@ -23,3 +23,6 @@ build/
 # Other virtual environments
 .env/
 env/
+
+# Churn project files
+churn_analysis/
